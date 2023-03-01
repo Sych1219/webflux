@@ -1,4 +1,4 @@
-package com.reactor.webflux;
+package com.reactor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
